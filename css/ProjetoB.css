@@ -1,0 +1,66 @@
+:root{
+    background-color: #020100;
+}
+
+h1{
+    color: #0D160B;
+    text-align: center;
+    border: 1px solid #785589;
+    background-color: #977390;
+    border-radius: 10px;
+}
+
+#p1{
+    border: solid 1px #785589;
+    background-color: #977390;
+    text-align: center;
+    border-radius: 10px;
+}
+
+a{
+    color: #0D160B;
+}
+
+
+#tela_inicial{
+    border: 1px hidden #191817;
+    background-color: #191817;
+    border-radius: 10px;
+}
+
+#minha_foto{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    
+    
+}
+
+#p2{
+    display: inline;
+    color: white;
+    margin-left: 65px;
+    border: 2px 2px hidden #2E2D2C;
+    padding: 0.5%;
+    background-color: #2E2D2C;
+    width: 14%;
+    position: relative;
+
+}
+
+#p3{
+    color: white;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+#meme{
+    display: flex;
+    justify-content: center;
+    
+}
