@@ -12,7 +12,6 @@ img{
     margin-right: 4px;
     transform: rotate(-3deg);
     border-radius: 10px;
-    image-rendering: optimizeQuality;
 }
 
 p{
