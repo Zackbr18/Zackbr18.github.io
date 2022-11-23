@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-colorido-psicodelico-desenhado-a-mao_23-2149075812.jpg?w=740&t=st=1661908511~exp=1661909111~hmac=0751832b11b121879e68bad98247eae4c337f30c3e9a705d041ffc1eb581567f);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(40px);
+}
+
+img{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin-right: 4px;
+    transform: rotate(-3deg);
+    border-radius: 10px;
+    image-rendering: optimizeQuality;
+}
+
+p{
+    color: black;
+    font-family: Roboto, sans-serif;
+    text-align: justify;
+    text-shadow: 3px;
+}
+
+h1{
+    
+    border-top: 7px none #8257E5;
+    border-bottom: 7px none #8257E5;
+    border-radius: 5px;
+    padding: 10px;
+    background-image: url(https://img.freepik.com/vetores-gratis/plano-de-fundo-psicodelico-e-moderno_23-2148873377.jpg?w=740&t=st=1661908498~exp=1661909098~hmac=da6a2a565b45d184c2d142329c77655ec7a8a906fd944eaccc7667b4b6bdff82);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+    font-family: Roboto, sans-serif;
+}
